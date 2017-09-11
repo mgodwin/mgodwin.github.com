@@ -1,6 +1,6 @@
 # mgodwin.github.io
 
-My blog.  New ideas stored in `percolator`.
+My blog.
 
 # Type Theme
 
