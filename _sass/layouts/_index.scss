@@ -9,6 +9,18 @@
   text-align: center;
   color: $header-desc-text-color;
 }
+// TODO: Clean up
+svg#demo {
+  width: 100%;
+  height: 200;
+  g {
+    mix-blend-mode: lighten;
+  }
+  polygon {
+    stroke: none;
+    fill: white;
+  }
+}
 .call-out p:last-child {
   margin-bottom: 0;
 }

@@ -2,11 +2,15 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "img/sample_feature_img_2.png"
+#feature-img: "img/about_banner.jpg"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+I'm a full stack Ruby on Rails developer. Currently I'm managing a team of developers and providing technical direction at a Real Estate startup called [Firepoint](http://www.firepoint.net).  Prior to that, I worked at small and medium sized companies where I programmed in Java and PHP.
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
+I strive to write clean, maintainable code, and when I get a chance, I like to write about what I've learned along the way.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+When I'm not programming, I love to run, play guitar, dance, rock climb and spend time with my family.
+
+<p style="text-align: center;">
+  <img src="{{ site.baseurl }}/img/mark_and_jordan.jpg" alt="Mark and Jordan">
+</p>
