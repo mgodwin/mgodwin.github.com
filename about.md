@@ -5,7 +5,7 @@ permalink: /about/
 #feature-img: "img/about_banner.jpg"
 ---
 
-I'm a full stack Ruby on Rails developer. Currently I'm managing a team of developers and providing technical direction at a Real Estate startup called [Firepoint](http://www.firepoint.net).  Prior to that, I worked at small and medium sized companies where I programmed in Java and PHP.
+Hi, I'm a full stack Ruby on Rails developer. Currently I'm an Engineering Manager at the legaltech company [Logikcull](http://www.logikcull.com).  Prior to that, I worked at a small Real Estate startup called [Firepoint](http://www.firepoint.net) and before that, a couple of small and medium sized companies where I programmed in Java and PHP.
 
 I strive to write clean, maintainable code, and when I get a chance, I like to write about what I've learned along the way.
 
