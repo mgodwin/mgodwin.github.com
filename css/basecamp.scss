@@ -81,7 +81,7 @@ h1.basecamp {
   box-sizing: border-box;
   text-align: center;
   position: relative;
-  margin-bottom: 10px;
+  margin-bottom: 42px;
 
   &::after {
     content: '';
@@ -143,4 +143,9 @@ h1.basecamp {
     height: 80px;
     filter: invert(1);
   }
+}
+
+.continue-reading {
+  text-align: center;
+  font-style: italic;
 }
